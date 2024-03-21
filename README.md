@@ -1,4 +1,4 @@
-# Learn-github
+# about
 Embark on an exploratory voyage into the world of Arduino-driven innovation. I am a fervent advocate and mentor in the engineering domain, committed to nurturing the next generation of innovators poised to address the complexities of our future.
 
 Within this repository lies a thoughtfully assembled compendium of libraries, each a pivotal instrument in devising solutions that confront and alleviate the 'pain points' experienced by end-users. These libraries represent the culmination of a rigorous process rooted in empathy and culminating in groundbreaking innovation.
